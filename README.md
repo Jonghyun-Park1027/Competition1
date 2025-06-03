@@ -97,8 +97,8 @@ MAPE는 1.1778상승해 4.5934를 달성할 수 있었음.
 > 
 > 
 > 
-> ### 4-1. 기상변수 RandomForest
-> <p align="center"><img src="picture/Banyla_RandomForest.png" width="70%" height="70%"></p>
+> ### 4-1. 기상변수 Vanilla RandomForest
+> <p align="center"><img src="picture/Vanilla_RandomForest.png" width="70%" height="70%"></p>
 >
 > <p align="center"><img src="picture/Exogenous_variables_RandomForest.png" width="70%" height="70%"></p>
 >
